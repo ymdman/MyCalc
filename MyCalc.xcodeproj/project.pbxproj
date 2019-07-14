@@ -12,6 +12,7 @@
 		145FF31222C260D0008CFC20 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 145FF31022C260D0008CFC20 /* Main.storyboard */; };
 		145FF31422C260D0008CFC20 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 145FF31322C260D0008CFC20 /* Assets.xcassets */; };
 		145FF31722C260D0008CFC20 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 145FF31522C260D0008CFC20 /* LaunchScreen.storyboard */; };
+		145FF31F22D37E7A008CFC20 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 145FF31E22D37E7A008CFC20 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		145FF31322C260D0008CFC20 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		145FF31622C260D0008CFC20 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		145FF31822C260D0008CFC20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		145FF31E22D37E7A008CFC20 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				145FF30C22C260D0008CFC20 /* AppDelegate.swift */,
 				145FF30E22C260D0008CFC20 /* ViewController.swift */,
 				145FF31022C260D0008CFC20 /* Main.storyboard */,
+				145FF31E22D37E7A008CFC20 /* ResultViewController.swift */,
 				145FF31322C260D0008CFC20 /* Assets.xcassets */,
 				145FF31522C260D0008CFC20 /* LaunchScreen.storyboard */,
 				145FF31822C260D0008CFC20 /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				145FF30F22C260D0008CFC20 /* ViewController.swift in Sources */,
 				145FF30D22C260D0008CFC20 /* AppDelegate.swift in Sources */,
+				145FF31F22D37E7A008CFC20 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
